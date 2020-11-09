@@ -1,2 +1,2 @@
 # MSc-Assignments
-MSc Dta Science Assignments
+MSc Data Science Assignments
